@@ -34,3 +34,10 @@ The purpose of this dashboard is to bring all important weather information into
 - Used **indicators with conditional formatting** to highlight KPIs dynamically based on thresholds  
 - Improved understanding of **DAX and Power Query transformations** for real-time dashboards  
 - Gained experience in designing **interactive, user-friendly visuals** for better insights
+
+## 🖼️ Dashboard Preview
+Here’s a preview of the dashboard visuals:
+
+![Dashboard Overview](path/to/your/weather_dashboard.png)  
+![Dashboard Overview](path/to/your/weather_dashboard1.png)  
+
