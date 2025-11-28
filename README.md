@@ -38,6 +38,6 @@ The purpose of this dashboard is to bring all important weather information into
 ## 🖼️ Dashboard Preview
 Here’s a preview of the dashboard visuals:
 
-![Dashboard Overview](path/to/your/weather_dashboard.png)  
-![Dashboard Overview](path/to/your/weather_dashboard1.png)  
+![Dashboard Overview](weather_dashboard.png)  
+![Dashboard Overview](weather_dashboard1.png)  
 
